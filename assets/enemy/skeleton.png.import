@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bddof7odo8giw"
-path="res://.godot/imported/Bouncy Platform Long.png-c4c0af291d975e28287aef8e1f98b69e.ctex"
+uid="uid://i5ed8wrdnbwi"
+path="res://.godot/imported/skeleton.png-331f37e7e9aa579d0bc9437a19f5371c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Bouncy Platform Long.png"
-dest_files=["res://.godot/imported/Bouncy Platform Long.png-c4c0af291d975e28287aef8e1f98b69e.ctex"]
+source_file="res://assets/enemy/skeleton.png"
+dest_files=["res://.godot/imported/skeleton.png-331f37e7e9aa579d0bc9437a19f5371c.ctex"]
 
 [params]
 
